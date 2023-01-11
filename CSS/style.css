@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.styles{
+    background-color: grey;
+}
+
+.sub-title{
+    margin-bottom: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+}
+
